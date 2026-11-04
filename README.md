@@ -1,5 +1,6 @@
 # KomakikoCNTr
 atrX的Komaki Won't Come to Class的汉化
+~~闲着没屁事干随便搞的~~
 
 包括Android **自用** 版本，**注意不要传播**
 > **本仓库只存放发布信息与授权说明，不含汉化文件。**
